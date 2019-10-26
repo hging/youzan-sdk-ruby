@@ -2,6 +2,8 @@ require "youzan/sdk/ruby/version"
 require "youzan/sdk/ruby/api_operations/customer.rb"
 require "youzan/sdk/ruby/base"
 require "youzan/sdk/ruby/item"
+require "youzan/sdk/ruby/users"
+
 require 'typhoeus'
 require 'json'
 
