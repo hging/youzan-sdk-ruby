@@ -3,6 +3,7 @@ require "youzan/sdk/ruby/api_operations/customer.rb"
 require "youzan/sdk/ruby/base"
 require "youzan/sdk/ruby/item"
 require "youzan/sdk/ruby/users"
+require "youzan/sdk/ruby/ump"
 
 require 'typhoeus'
 require 'json'
